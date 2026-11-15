@@ -20,7 +20,7 @@ A simple and clean ToDo list application that helps you manage your daily tasks.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Shahfz-11/ToDo-App.git
+   git clone https://github.com/Shahfz-11/ToDo-app.git
    ```
 2. Open the project folder:
    ```bash
@@ -30,7 +30,7 @@ A simple and clean ToDo list application that helps you manage your daily tasks.
 
 ## Live Demo
 
-https://Shahfz-11.github.io/ToDo-App/
+https://Shahfz-11.github.io/ToDo-app/
 
 ## Screenshot
 
