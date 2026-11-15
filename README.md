@@ -34,7 +34,7 @@ https://Shahfz-11.github.io/ToDo-app/
 
 ## Screenshot
 
-![ToDo App Screenshot](screenshot.png)
+![ToDo App Screenshot](ToDo/screenshot.png)
 
 ## Author
 
