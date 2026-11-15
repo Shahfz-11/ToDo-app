@@ -30,7 +30,7 @@ A simple and clean ToDo list application that helps you manage your daily tasks.
 
 ## Live Demo
 
-https://Shahfz-11.github.io/ToDo-app/
+https://shahfz-11.github.io/ToDo-app/
 
 ## Screenshot
 
